@@ -1,7 +1,2 @@
-python:3.11
-postgres:15.4
-redis:7.2
-node:18-slim
-mysql:8.0
-getmeili/meilisearch:v1.8
-openjdk:8u342-jdk
+metabase/metabase:v0.50.0
+metabase/metabase:v0.49.15
