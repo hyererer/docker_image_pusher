@@ -1,2 +1,1 @@
-metabase/metabase:v0.50.0
-metabase/metabase:v0.49.15
+ghcr.io/open-webui/open-webui:main
