@@ -1,1 +1,2 @@
-ghcr.io/huggingface/chat-ui-db
+ghcr.io/berriai/litellm:main-v1.42.6
+prom/prometheus
