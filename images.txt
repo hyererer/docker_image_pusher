@@ -1,2 +1,1 @@
-ghcr.io/berriai/litellm:main-v1.42.6
-prom/prometheus
+ghcr.io/berriai/litellm:main-v1.42.7-stable
