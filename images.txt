@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:main-v1.42.7-stable
+vllm/vllm-openai
