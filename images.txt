@@ -1,1 +1,1 @@
-vllm/vllm-openai
+ollama/ollama
