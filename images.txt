@@ -1,1 +1,3 @@
-lmsysorg/sglang
+langgenius/dify-api:0.8.2
+langgenius/dify-web:0.8.2
+langgenius/dify-sandbox:0.2.7
