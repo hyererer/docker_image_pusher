@@ -1,1 +1,1 @@
-langfuse/langfuse:2
+vllm/vllm-openai
