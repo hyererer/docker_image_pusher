@@ -1,1 +1,3 @@
-ghcr.io/huggingface/text-embeddings-inference:86-latest
+langgenius/dify-api:0.11.1
+langgenius/dify-web:0.11.1
+langgenius/dify-sandbox:0.2.10
