@@ -1,1 +1,1 @@
-langfuse/langfuse:2
+bitwarden/mssql:latest
