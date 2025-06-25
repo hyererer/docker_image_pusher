@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+getmeili/meilisearch:v1.15
